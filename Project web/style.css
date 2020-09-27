@@ -1,0 +1,13 @@
+header {
+	background-color: blue;
+}
+div {
+	font-size: 25px;
+}
+a {
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+	margin-right: 30px;
+	text-align: center; 
+}
